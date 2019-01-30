@@ -1,2 +1,2 @@
 # fibonacci-cms
-Fibonnic - Custom, Clean Cms
+Fibonnaci - Custom, Clean Cms
