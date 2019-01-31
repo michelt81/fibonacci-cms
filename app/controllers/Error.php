@@ -9,6 +9,7 @@ class Error extends Controller
     public function __construct()
     {
         parent::__construct();
-        echo '404';
+        $this->view->title = "Error";
+        $this->view->render('error/index');
     }
 }
